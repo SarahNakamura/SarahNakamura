@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, thank you for Sarah's user guide👋
+
+### About me
+Hello, I am SarahNakamura. I am currenty studying bioinformatics and I love learning new things and exploring the unknowns!!! - which sort of leads to my passion towards reseach... Decoding the genetic/genomic data to understand disease progression mechanism is something I have been interested in through my research journey and would like to contunue to pursue this passion in as a PhD student in the future. 
+### What does my work style look like...
+### How to contact me
+### My value
+### My Strenghth and Weaknesses
+### Fun facts about me!
 
 <!--
 **SarahNakamura/SarahNakamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
